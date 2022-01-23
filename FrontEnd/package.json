@@ -1,0 +1,9 @@
+{
+  "name": "FoF_Frontend",
+  "version": "1.0.0",
+  "description": "for calculating how many mutual friends away from someone you are",
+  "main": "index.js",
+  "author": "Alfie Ranstead",
+  "license": "MIT",
+  "private": true
+}
