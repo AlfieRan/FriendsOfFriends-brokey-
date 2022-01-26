@@ -1,0 +1,1 @@
+{"version":3,"file":"TwitterApi.js","sourceRoot":"","sources":["../src/TwitterApi.ts"],"names":[],"mappings":";;;;;;;;;;;;AAEA,MAAa,cAAc;IACjB,gBAAgB,CAAC,QAAe;;YAClC,MAAM,GAAG,GAAG,uEAAuE,OAAO,CAAC,GAAG,CAAC,QAAQ,uGAAuG,CAAA;YAC9M,OAAO,GAAG,CAAA;QACd,CAAC;KAAA;CACJ;AALD,wCAKC"}
