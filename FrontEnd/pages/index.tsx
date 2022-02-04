@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           // borderWidth={[2]}
           color={"#fff"}
           background={"#2c89ff"}
-          boxShadow="dark-lg"
+          shadow="lg"
           _hover={{ bg: "#0c5dbe" }}
           _active={{
             bg: "#3784ff",
